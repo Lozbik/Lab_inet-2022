@@ -25,4 +25,4 @@
 ## ✅ Экзаменационные билет №13
 
 Ответ на экзаменационный билет доступен по ссылке:
-[билет №13](https://github.com/stankin/inet-2022/wiki/exams#билет-13)
+[билет №13](https://github.com/stankin/inet-2022/wiki/exam13)
